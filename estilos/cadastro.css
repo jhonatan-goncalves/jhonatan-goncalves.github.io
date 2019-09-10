@@ -20,7 +20,6 @@
 }
 
 .footer {
-    margin-top: 40px;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -32,28 +31,12 @@
     text-decoration: none;
   }
 
-.form-horizontal{
-    border: #333;
-}
 
 .dados{
     margin-top: 40px;
-    margin-left: 80px;
     margin-bottom: 40px;
 }
 
-.enderecos{
-    margin-left: 80px;
-    margin-bottom: 40px;
-}
-
-.col-md-8{
-    margin-left: 800px;
-}
-
-.cadastro{
-    margin-left: 470px;
-}
 
 .home{
     margin-left: 100px;
